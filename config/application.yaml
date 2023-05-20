@@ -1,0 +1,7 @@
+logging:
+  level:
+    io.yurkovlyanets: INFO
+bot:
+  name: botName
+  token: tokenBoken
+
